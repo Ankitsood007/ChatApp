@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123858785862",
+    "firebase_url": "https://my-chapapp-f1774.firebaseio.com",
+    "project_id": "my-chapapp-f1774",
+    "storage_bucket": "my-chapapp-f1774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123858785862:android:04876fb07340b4d2ea5c47",
+        "android_client_info": {
+          "package_name": "com.codewithankit.mychapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123858785862-2rhdm17ehe0087tpb3k5776tpb8hoiku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVriKVwX2RWrAqCDuvekLObC-S71zjKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123858785862-2rhdm17ehe0087tpb3k5776tpb8hoiku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
